@@ -1,0 +1,1 @@
+gunicorn 'books_inventory:app'
